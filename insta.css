@@ -33,3 +33,25 @@
   margin-left: 130px;
   margin-top: 20px;
 }
+.boxmini {
+  width: 500px;
+  height: 70px;
+  border: 1px solid grey;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  background-color: rgb(246, 247, 248);
+  display: flex;
+  /* justify-content: space-around; */
+}
+.text {
+  margin-top: 20px;
+  margin-left: 15px;
+  font-size: 1.35rem;
+  opacity: 60%;
+}
+#eye {
+  margin-top: 25px;
+  margin-left: 80px;
+  color: blue;
+  opacity: 70%;
+}
