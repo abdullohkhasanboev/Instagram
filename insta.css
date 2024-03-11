@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: sans-serif;
 }
 .conteiner {
   width: 1000px;
@@ -36,7 +37,8 @@
 .boxmini {
   width: 500px;
   height: 70px;
-  border: 1px solid grey;
+  border: 1px solid rgb(199, 199, 199);
+  border-radius: 5px;
   margin-left: 50px;
   margin-bottom: 30px;
   background-color: rgb(246, 247, 248);
@@ -51,7 +53,11 @@
 }
 #eye {
   margin-top: 25px;
-  margin-left: 80px;
+  margin-left: 40px;
   color: blue;
   opacity: 70%;
+}
+#boxblue {
+  background-color: rgb(71, 71, 238);
+  color: white;
 }
