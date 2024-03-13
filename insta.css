@@ -58,6 +58,42 @@
   opacity: 70%;
 }
 #boxblue {
-  background-color: rgb(71, 71, 238);
+  width: 500px;
+  height: 70px;
+  border: 1px solid rgb(199, 199, 199);
+  border-radius: 5px;
+  margin-left: 50px;
+  background-color: rgb(8, 68, 197);
+  display: flex;
   color: white;
+  justify-content: center;
+  align-items: center;
+}
+.face {
+  width: 20px;
+  height: 20px;
+}
+.boxmini2 {
+  width: 500px;
+  height: 30px;
+  margin-left: 50px;
+}
+#text1 {
+  width: 500px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+}
+span {
+  opacity: 50%;
+}
+.boxmini3 {
+  display: flex;
+  margin-left: 50px;
+  justify-content: center;
+  opacity: 50%;
+  margin-bottom: 20px;
+}
+.boxmini4 {
+  margin-left: 180px;
 }
